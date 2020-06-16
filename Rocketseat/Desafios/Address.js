@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Desafio #3 da Rocketseat</title>
+  <title>Desafio #1 da Rocketseat</title>
 </head>
 <body>
   <script>
